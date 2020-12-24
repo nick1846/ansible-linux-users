@@ -2,4 +2,4 @@
 - hosts: all 
   become: True
   roles:
-    - awx-users 
+    - linux-users 
