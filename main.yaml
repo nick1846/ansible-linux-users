@@ -3,3 +3,4 @@
   become: True
   roles:
     - linux-users 
+    - generate-sshkey
